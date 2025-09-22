@@ -1,7 +1,7 @@
 # Welcome to [Apoorva Aware](https://github.com/aapurwah)'s Profile 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FFFFFF&size=25&duration=3000&lines=Welcome+to+my+GitHub+Profile!;I'm+Apoorva+Aware!;UI/UX+Designer;A+Competitive+Programmer;Full+Stack+Developer;ML+Enthusiast;Always+Learning+Something+New!" />
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FFFFFF&size=25&duration=3000&lines=Welcome+to+my+GitHub+Profile!;I'm+Apoorva+Aware!;UI/UX+Designer;A+Data+Analyst;Full+Stack+Developer;ML+Enthusiast;Always+Learning+Something+New!" />
 </div>
 
 
