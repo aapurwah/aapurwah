@@ -20,7 +20,6 @@
 
 ## 🛠 Tech Stack
 
-```javascript
 const apoorva = {
   pronouns: "She" | "Her",
   code: ["Java", "Python", "JavaScript", "HTML/CSS", "SQL"],
@@ -41,11 +40,9 @@ const apoorva = {
 
 <div align="center">
   
-  
-
 <br/>
 <a href="https://github.com/aapurwah">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya0ii&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapurwah&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </a>
 
 </div>
@@ -53,50 +50,32 @@ const apoorva = {
 ### 📊 GitHub Activity
 <div align="center">
 
-[![Diya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diya0ii&theme=react-dark&hide_border=true)](https://github.com/diya0ii)
-
+[![Apoorva's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aapurwah&theme=react-dark&hide_border=true)](https://github.com/aapurwah)
 
 </div>
 
 ## 🎯 Current Projects
 
-- 🔨 Building a full-stack blind assist platform with React & Node.js
-- 📱 Creating responsive web applications with modern frameworks and Interactive UI/UX Designs
-- 🧠 Solving DSA problems daily
+- 📊 **Ola Dashboard** in Power BI (Data Analysis Project)
+- 🌐 Designing a **Hinduism-inspired Portfolio Website** (10 Avatars of Vishnu theme)
+- 💻 Solving **DSA problems** daily for placements
+- 📱 Exploring **AI-powered apps** (ATS shortlister, IPO analyzer, AyurYoni)
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diya-verma-323665259/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:diyav2004@gmail.com)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/diya0ii)
-[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/diya0ii/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/diya0ii/?hl=en)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/apoorva-aware/)  
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:apoorvaaware2003@gmail.com)  
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/aapurwah)  
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/)  
 
 </div>
-
 
 <div align="center">
   
-  ###  "Only you can DO IT" 
+  ### ✨ "Only you can DO IT" ✨
   
-  *Thanks for visiting! Let's build something amazing together! 🚀*
+  *Thanks for visiting! Let's build something amazing together 🚀*
 </div>
 
-
-<!--
-*diya0ii/diya0ii* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-make it according to my infomation you know
