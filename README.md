@@ -21,20 +21,16 @@
 ## 🛠 Tech Stack
 
 const apoorva = {
-  pronouns:["She" | "Her"],
-  code: ["Java", "Python", "JavaScript", "HTML/CSS", "SQL"],
-  askMeAbout: ["frontend dev", "data analysis", "AI/ML", "DSA", "UI/UX design"],
-  technologies: {
-    frontend: ["React.js", "HTML", "CSS", "JavaScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js"],
-    databases: ["MongoDB", "MySQL"],
-    ml_ds: ["pandas", "numpy", "matplotlib", "Power BI"],
-    tools: ["Git", "VS Code", "Excel", "Jupyter", "Figma"],
-    deployment: ["Vercel", "GitHub Pages"]
-  },
-  currentFocus: ["DSA", "Data Analysis Projects", "Web Development"]
+  pronouns: ["She", "Her"],
+  languages: ["Java", "Python", "JavaScript", "SQL"],
+  frontend: ["React.js", "HTML", "CSS", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  databases: ["MongoDB", "MySQL"],
+  dataTools: ["Power BI", "Excel", "Pandas", "NumPy", "Matplotlib"],
+  tools: ["Git", "VS Code", "Figma", "Jupyter Notebook"],
+  deployment: ["Vercel", "GitHub Pages"],
+  currentFocus: ["DSA", "Data Analytics Projects", "Web Development"]
 }
-
 
 ## 🏆 Achievements & Stats
 
