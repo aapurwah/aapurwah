@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 
 const apoorva = {
-  pronouns: "She" | "Her",
+  pronouns:["She" | "Her"],
   code: ["Java", "Python", "JavaScript", "HTML/CSS", "SQL"],
   askMeAbout: ["frontend dev", "data analysis", "AI/ML", "DSA", "UI/UX design"],
   technologies: {
