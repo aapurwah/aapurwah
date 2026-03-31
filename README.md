@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FFFFFF&size=25&duration=3000&lines=Welcome+to+my+GitHub+Profile!;I'm+Apoorva+Aware!;A+Data+Analyst;Full+Stack+Developer;ML+Enthusiast;Always+Learning+Something+New!" />
 </div>
 
-
 ---
 
 ## 🚀 About Me
